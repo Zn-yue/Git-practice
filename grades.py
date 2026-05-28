@@ -39,4 +39,4 @@ if __name__ == "__main__":
     print("\n입력된 점수:", scores)
 
     average = calculate_average(scores)
-    print(f"평균 점수: {average:.1f}점")
+    print(f"평균 점수: {average:.1f}점")    print(f"평균 점수: {average:.1f}점")
